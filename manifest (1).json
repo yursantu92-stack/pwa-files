@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "www.jsrdigital",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "www.jsrdigital",
+  "start_url": "https://www. jsrdigital.in",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://www.jsrdigital.in/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
